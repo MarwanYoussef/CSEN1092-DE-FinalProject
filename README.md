@@ -3,3 +3,6 @@ This repository is intented to include the Jupyter Notebook which includes the p
 
 Link to the Jupyter Notebook
 https://drive.google.com/open?id=1PZdo1q_YWrHYjYDkAbvstOUbUbkpiRXf
+
+Link to Datasets used
+https://drive.google.com/open?id=1phhtEY9VUJb4_QHgJVX6gpTCFL_VqmPV
